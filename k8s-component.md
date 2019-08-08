@@ -3,7 +3,7 @@ Kubernetes Architecture and Component
 *What is Kubernetes?*
 -	Kubernetes is an open-source container-orchestration system for automating application deployment, scaling and management.
 
-What is Node?
+_What is Node?_
 -	Node is worker machine in k8s. It can have multiple PODS
 
 What are Components of Kubernetes Master Node?
