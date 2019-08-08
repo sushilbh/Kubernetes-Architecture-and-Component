@@ -2,8 +2,10 @@ Kubernetes Architecture and Component
 
 What is Kubernetes?
 -	Kubernetes is an open-source container-orchestration system for automating application deployment, scaling and management.
+
 What is Node?
 -	Node is worker machine in k8s. It can have multiple PODS
+
 What are Components of Kubernetes Master Node?
 -	API Server- Component on the master that exposes the Kubernetes API. It is the front-end for the Kubernetes
 -	Scheduler- The Kuberentes scheduler is in charge of scheduling pods on to nodes.. when you deploy new application in Kubernetes cluster the scheduler will decide which node to start the application.
